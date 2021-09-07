@@ -3,7 +3,16 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    
+    .titulo-principal
+      .titulo-principal__numero
+        span 2
+      h1 Sistema de Gestión Ambiental - SGA
+
+    figure.mb-5(data-aos="fade")
+      img(src="@/assets/curso/banner-tema2.png", alt="Sistema de Gestión Ambiental - SGA")  
+
+
+
 
 </template>
 

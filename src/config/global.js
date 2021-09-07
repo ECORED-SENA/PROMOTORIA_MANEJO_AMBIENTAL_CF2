@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Información y medio ambiente',
     descripcionCurso:
       'La tramitación de la información ambiental de una organización debe hacerse a la luz de la normativa, la cual facilitará la comprensión de términos de referencia que incluye un Sistema de Gestión Ambiental (SGA), así como los trámites ambientales, las guías técnicas que lo comprenden y la documentación requerida.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
