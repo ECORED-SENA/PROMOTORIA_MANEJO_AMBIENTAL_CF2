@@ -1,34 +1,121 @@
 .barra-avance__boton--regresar i
   color: $color-sistema-texto
-.boton.barra-avance__boton--regresar:active span,  .boton.barra-avance__boton--regresar:focus span,  .boton.barra-avance__boton--regresar:hover span
-  color: $white !important
-.titulo-segundo:after
-  border-left: solid 50px $color-primario
+.titulo-principal__numero span
+  color: $color-sistema-texto
 
-.back-white
-  background-color: #FFF
-.back-gris
-  background-color: #F6F6F6
-.back-verde-suave
-  background-color: #e1efae   
-.back-verde
-  background-color: #e1f3d1
-.back-amarillo-suave
-  background-color: #fef9d1
-.back-primario
-  background-color: #8AD24A
-.back-color-acento-contenido  
-  background-color: #FDE947
+
+.bg-primario
+  background-color: #29B39D
+.bg-acento-contenido 
+  background-color: #FFBB00  
 .tarjeta-verde
-  background-color: #e2f3d2  
+  background-color: #caece6
+.tarjeta-verde2
+  background-color: #c9ebe6 
+.tarjeta-verde3
+  background-color: #def8e0    
+.tarjeta-amarillo-suave
+  background-color: #ffeec0
 
+
+.etiqueta
+  background-color: #a1dcd3
+  font-weight: bold
+  padding: 2px 1px 2px
+
+.bloque-texto-a.color-secundario-gris
+  background-color: #7AE582
+.bloque-texto-a.color-secundario-gris:before
+  background-color: #e1e7e1
+.bloque-texto-a.color-gris-secundario
+  background-color: #e1e7e1
+.bloque-texto-a.color-gris-secundario:before
+  background-color: #7AE582
+.bloque-texto-a.color-gris-primario
+  background-color: #e1e7e1
+.bloque-texto-a.color-gris-primario:before
+  background-color: #29B39D
+
+.tarjeta-primario-borde
+  background-color: #caece6
+  border: 8px solid #29B39D
+  border-radius: 15px
+.tarjeta-secundario-borde
+  background-color: #def8e0
+  border: 8px solid #7AE582
+  border-radius: 15px  
+
+.pasos-a__circle
+  width: 70px
+  height: 70px
+  min-width: 70px  
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: $color-sistema-texto
+  font-size: 1.8em  
 
 .lista-azul.lista-ul--color li > i:first-of-type
   color: #3CA8F4
-.lista-ul--color.lista-circulo.lista-azul li > i:first-of-type
-  font-size: 12px
-  padding-top: 1px
+.lista-azul .lista-ol--cuadro__vineta
+  background-color: #3CA8F4
+.lista-verde2.lista-ul--color li > i:first-of-type
+  color: #29B39D
+.lista-azul .lista-ol--cuadro__vineta span
+  font-weight: bold 
+.lista-ul--color.lista-circulo li > i:first-of-type
+  font-size: 11px
+  padding-top: 2px
 .lista-verde.lista-ul--color li > i:first-of-type
   color: #8AD24A  
   font-size: 12px
   padding-top: 2px  
+
+.img-infografica__item
+  width: 1.5%
+.img-infografica.color-acento-botones .img-infografica__item__dot:hover:before, .img-infografica.color-acento-botones .img-infografica__item__dot:hover:after
+  background-color: #7AE582
+
+
+// TARJETA HOVER ------------------
+.tarjeta-container
+  position: relative
+  overflow: hidden
+  height: 262px   
+  
+  .tarjetaContent
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease;
+    .tarjetaImg
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      height: 300px
+      border-radius: 20px
+    .tarjetaTxt 
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      height: 223px  
+    .tarjetaImg img
+      width: 100%  
+      border-radius: 20px
+    .tarjetaTxt      
+      text-align: center
+      background-color: #FFF
+      border: 6px solid #29B39D
+      border-radius: 20px 
+    .tarjetaTxt h1 
+      font-size: 100px
+  &:hover
+    .tarjetaContent
+      top: -262px
+@media (max-width: $bp-max-md)
+  .tarjeta-container
+    height: 265px 
+  .tarjeta-container .tarjetaContent .tarjetaImg, .tarjeta-container .tarjetaContent .tarjetaTxt
+    height: 265px
+  .tarjeta-container .tarjetaContent:hover    
+    top: -265px          

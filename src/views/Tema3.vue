@@ -27,7 +27,7 @@
             i.fas.fa-circle
             p.mb-0 Planos que soportan el EIA, es decir el modelo de almacenamiento geográfico o el Geodatabase.
       .row.justify-content-center.px-lg-5(titulo="Proceso para otorgar una licencia ambiental")
-        ol.lista-ol--cuadro
+        ol.lista-ol--cuadro.lista-azul
           li 
             .lista-ol--cuadro__vineta
               span 1
@@ -76,15 +76,15 @@
         p Las licencias ambientales se otorgan para toda la vida útil del proyecto u obra y cubren todas las fases. Las autoridades ambientales cobrarán los servicios de evaluación de seguimientos de licencias ambientales. pero existen unos topes máximos de cobro: 
         .row.justify-content-center
           .col-lg-5
-            h4.mb-2.p-2.text-white.text-center.back-primario Valor del proyecto
-            p.mb-2.p-2.text-center.back-verde-suave 684.592
-            p.mb-2.p-2.text-center.back-verde-suave 684.592 y 2,7 M
-            p.mb-2.p-2.text-center.back-verde-suave Mayor a 2,7 M
+            h4.mb-2.p-2.text-white.text-center.bg-primario Valor del proyecto
+            p.mb-2.p-2.text-center.bg-acento-contenido 684.592
+            p.mb-2.p-2.text-center.bg-acento-contenido 684.592 y 2,7 M
+            p.mb-2.p-2.text-center.bg-acento-contenido Mayor a 2,7 M
           .col-lg-5
-            h4.mb-2.p-2.text-white.text-center.back-primario Cobro
-            p.mb-2.p-2.text-center.back-verde-suave 0,6% del costo total del proyecto.
-            p.mb-2.p-2.text-center.back-verde-suave 0,5% del costo total del proyecto.
-            p.mb-2.p-2.text-center.back-verde-suave 0,4% el costo total del proyecto.
+            h4.mb-2.p-2.text-white.text-center.bg-primario Cobro
+            p.mb-2.p-2.text-center.bg-acento-contenido 0,6% del costo total del proyecto.
+            p.mb-2.p-2.text-center.bg-acento-contenido 0,5% del costo total del proyecto.
+            p.mb-2.p-2.text-center.bg-acento-contenido 0,4% el costo total del proyecto.
       .row.justify-content-center.px-lg-5(titulo="Términos de referencia")
         p La autoridad ambiental establece los términos de referencia para la elaboración y ejecución de los Estudios de Impacto Ambiental (EIA) y Diagnóstico Ambiental de Alternativas (DAA) que serán presentados ante la autoridad ambiental competente al momento de solicitar el otorgamiento de una licencia ambiental. La Autoridad Nacional de Licencias Ambientales -  ANLA establece los diferentes términos de referencia según los siguientes sectores y se pueden encontrar en la página web. 
         .row

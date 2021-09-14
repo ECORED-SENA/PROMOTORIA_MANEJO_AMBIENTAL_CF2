@@ -72,5 +72,5 @@ export default {
 
 <style lang="sass">
 .acordeon__selected
-  background-color: #fef9d0
+  background-color: #ffedbf
 </style>

@@ -11,8 +11,10 @@
     figure.mb-5(data-aos="fade")
       img(src="@/assets/curso/banner-tema1.png", alt="Normativa ambiental")  
 
-    p(data-aos="fade") La normativa ambiental establece las obligaciones para la conservación de los recursos naturales y culturales. Allí se relacionan las normas, tratados y leyes que funcionan para regular las acciones de la humanidad sobre los componentes biofísicos, para reducir los impactos ambientales. Precisamente, para considerar las diferentes acciones a seguir en la normativa ambiental, se deben tener en cuenta las normas, tratados, leyes y normas de gestión ambiental. 
+    p.mb-4(data-aos="fade") La normativa ambiental establece las obligaciones para la conservación de los recursos naturales y culturales. Allí se relacionan las normas, tratados y leyes que funcionan para regular las acciones de la humanidad sobre los componentes biofísicos, para reducir los impactos ambientales. Precisamente, para considerar las diferentes acciones a seguir en la normativa ambiental, se deben tener en cuenta las normas, tratados, leyes y normas de gestión ambiental. 
 
+    .row.tarjeta.tarjeta--gris
+      BotonesB      
 
     Separador
 
@@ -69,9 +71,12 @@
 </template>
 
 <script>
+import BotonesB from '../components/BotonesB.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: {
+    BotonesB,
+  },
   data: () => ({
     // variables de vue
   }),
