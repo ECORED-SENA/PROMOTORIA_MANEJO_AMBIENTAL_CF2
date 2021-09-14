@@ -8,7 +8,7 @@
     @mouseleave="hover = null"
   )
     .indicador--hover(v-if="index === 0 && indicador")
-    .btns__text.p-4(v-if="index === hover")  
+    .btns__text.p-3(v-if="index === hover")  
       h4.mb-1 {{boton.titulo}}
       p {{boton.texto}}
 

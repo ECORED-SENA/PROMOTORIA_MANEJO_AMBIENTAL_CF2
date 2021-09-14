@@ -6,6 +6,8 @@
 
 .bg-primario
   background-color: #29B39D
+.bg-secundario
+  background-color: #7AE582
 .bg-acento-contenido 
   background-color: #FFBB00  
 .tarjeta-verde
@@ -14,9 +16,18 @@
   background-color: #c9ebe6 
 .tarjeta-verde3
   background-color: #def8e0    
+.tarjeta-verde4
+  background-color: #f1fcf2  
 .tarjeta-amarillo-suave
   background-color: #ffeec0
 
+.bg-border-primario
+  background-color: #FFF
+  border: 6px solid #29B39D
+  border-radius: 20px
+
+.cajon.color-primario
+  background-color: #caece7
 
 .etiqueta
   background-color: #a1dcd3
@@ -74,6 +85,23 @@
 .img-infografica.color-acento-botones .img-infografica__item__dot:hover:before, .img-infografica.color-acento-botones .img-infografica__item__dot:hover:after
   background-color: #7AE582
 
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #ffedbf
+  border-radius: 50%
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+  background-color: #ffedbf 
+.linea-tiempo-d.color-primario .linea-tiempo-d__item__number
+  background-color: #c9ebe6
+  border-radius: 50%  
+.linea-tiempo-d__item__content  
+  background-color: #c9ebe6  
+.linea-tiempo-d__item__dots:after
+  border-left: 5px dotted #7AE582
+@media (min-width: 768px)
+  .linea-tiempo-d__item__content__title
+    padding-left: 4rem!important
+
+
 
 // TARJETA HOVER ------------------
 .tarjeta-container
@@ -119,3 +147,135 @@
     height: 265px
   .tarjeta-container .tarjetaContent:hover    
     top: -265px          
+
+// HOVER CON TITULO ------------------
+.nav-holder
+  display: inline-block
+  margin: 10px 5px
+  overflow: hidden
+  position: relative
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0)
+.nav-holder *, .nav-holder *:before, .nav-holder *:after
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  transition: all 0.45s ease
+.nav-holder:before
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  content: ''
+  background-color: #7AE582
+  opacity: 1
+  z-index: 888
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  -ms-transition: all 0.45s ease
+  transition: all 0.45s ease
+  border-radius: 16px
+.nav-holder:before
+  -webkit-transform: translateY(75%)
+  -moz-transform: translateY(75%)
+  transform: translateY(75%)
+.nav-holder:hover:before
+  background-color: #7AE582
+  opacity: 0.9
+  -webkit-transform: translateY(0)
+  -moz-transform: translateY(0)
+  transform: translateY(0)
+  -webkit-transition-delay: 0.1s
+  -moz-transition-delay: 0.1s
+  transition-delay: 0.1s
+.nav-holder
+  .text
+    position: absolute
+    top: 72%
+    bottom: 0px
+    left: 0px
+    right: 0px
+    z-index: 999
+    bottom: 0
+    padding: 1.5em
+  img
+    backface-visibility: hidden
+    max-width: 100%
+    vertical-align: top
+    z-index: 0
+  p
+    margin: 0
+    opacity: 0
+.nav-holder .h4
+  margin: 0
+  opacity: 1
+.nav-holder:hover
+  .text
+    top: 8%
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-content: center
+    align-items: center
+  h4, p
+    opacity: 1
+    -webkit-transition-delay: 0.2s
+    -moz-transition-delay: 0.2s
+    transition-delay: 0.2s
+@media (max-width: $bp-max-md)
+  .nav-holder
+    height: 370px  
+  .nav-holder img  
+    height: 370px 
+    object-fit: cover
+    object-position: center center
+    border-radius: 16px
+
+
+// LINEA DE TIEMPO -----------------------------------    
+
+.container-img-linea
+  background-color: white
+  width: 105px
+  height: 105px
+  border-radius: 50%
+  z-index: 9999
+  box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.3)
+
+.linea-tiempo-a.color-secundario .linea-tiempo-a__text::before
+  background-color: #7AE582
+  z-index: 999
+.linea-tiempo-a::before
+  width: 5px
+  border-radius: 2px
+  background: #3CA8F4
+.linea-tiempo-a.color-secundario .linea-tiempo-a__row::before
+  background-color: #3CA8F4
+.linea-tiempo-a__row::before
+  width: 30px
+  height: 30px
+.linea-tiempo-a__row::after
+  width: 20px
+  height: 20px
+  background-color: #7AE582 
+  border: 3px solid #FFF
+.linea-tiempo-a__text__container
+  display: none  
+  -webkit-transition: all 0.5s ease-in-out 0s
+  -moz-transition: all 0.5s ease-in-out 0s
+  transition: all 0.5s ease-in-out 0s
+.linea-tiempo-a__row:hover .linea-tiempo-a__icon__container  
+  background-color: #29B39D
+.linea-tiempo-a__row:hover .linea-tiempo-a__icon__container::before
+  background-color: #29B39D
+.linea-tiempo-a__row:hover::after
+  background-color: #29B39D
+.linea-tiempo-a__row:hover .linea-tiempo-a__text__container
+  display: initial
+  -webkit-transition: all 0.5s ease-in-out 0s
+  -moz-transition: all 0.5s ease-in-out 0s
+  transition: all 0.5s ease-in-out 0s
