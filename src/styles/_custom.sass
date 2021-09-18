@@ -102,6 +102,11 @@
     padding-left: 4rem!important
 
 
+// MOBILE ------------------
+@media (max-width: $bp-max-md)
+  .horizontal-scroll
+    align-items: flex-start !important
+
 
 // TARJETA HOVER ------------------
 .tarjeta-container
@@ -279,3 +284,38 @@
   -webkit-transition: all 0.5s ease-in-out 0s
   -moz-transition: all 0.5s ease-in-out 0s
   transition: all 0.5s ease-in-out 0s
+
+.linea-tiempo-a__text__container::before
+  content: ''
+  display: block
+  top: 50%
+  left: 0
+  width: 30px
+  height: 30px
+  position: absolute
+  background-color: #FFF
+  border: 5px solid #29B39D
+  border-right: 0px
+  border-top: 0px
+  transform: translate(-41%, -50%) rotate(45deg)
+.linea-tiempo-a__row:nth-child(odd) .linea-tiempo-a__text__container::before
+  left: auto
+  right: 0
+  background-color: #FFF
+  border: 5px solid #29B39D
+  border-left: 0px
+  border-bottom: 0px
+  transform: translate(41%, -50%) rotate(45deg);  
+
+@media (max-width: $bp-max-md)
+  .linea-tiempo-a__row:nth-child(even):hover .linea-tiempo-a__text
+    transform: translateX(0px)
+  .linea-tiempo-a__row:nth-child(even) .linea-tiempo-a__text
+    margin-left: 20px
+  .linea-tiempo-a__row:hover .linea-tiempo-a__text
+    transform: translateX(0px)  
+  .linea-tiempo-a__text
+    margin-right: 20px  
+  .linea-tiempo-a__content span
+    line-height: 1.3em 
+  

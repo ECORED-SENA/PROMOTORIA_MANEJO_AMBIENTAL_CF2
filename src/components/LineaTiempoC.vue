@@ -6,7 +6,7 @@
   )
     .linea-tiempo-a__content
       .linea-tiempo-a__text
-        .linea-tiempo-a__text__container.bg-border-primario.py-lg-3.px-lg-5.p-4
+        .linea-tiempo-a__text__container.bg-border-primario.py-lg-3.px-lg-5.p-2
           h5.mb-2 {{item.titulo}}
           span(v-html="item.texto")
 

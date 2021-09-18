@@ -120,5 +120,13 @@ export default {
       line-height: 1.2em
 @media (max-width: $bp-max-md)
   .btns__text
-    width: 200px
+    width: 220px
+  .btns__item:nth-child(1n) .btns__text
+    left: 140%
+  .btns__item:nth-last-child(2n) .btns__text
+    left: 40%
+  .btns__item:nth-last-child(3n) .btns__text
+    left: 35%
+  .btns__item:last-child .btns__text
+    left: -40%
 </style>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="138" viewBox="0 0 138 138">
   <defs>
-    <filter id="Elipse_4659" x="0" y="0" width="138" height="138" filterUnits="userSpaceOnUse">
+    <filter id="Elipse_4653" x="0" y="0" width="138" height="138" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -8,14 +8,14 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_90182" data-name="Grupo 90182" transform="translate(-899.668 -588.914)">
-    <g transform="matrix(1, 0, 0, 1, 899.67, 588.91)" filter="url(#Elipse_4659)">
-      <g id="Elipse_4659-2" data-name="Elipse 4659" transform="translate(9 6)" fill="#fff" stroke="#7ae582" stroke-width="4">
+  <g id="Grupo_90182" data-name="Grupo 90182" transform="translate(-899.668 -1882)">
+    <g transform="matrix(1, 0, 0, 1, 899.67, 1882)" filter="url(#Elipse_4653)">
+      <g id="Elipse_4653-2" data-name="Elipse 4653" transform="translate(9 6)" fill="#fff" stroke="#7ae582" stroke-width="4">
         <circle cx="60" cy="60" r="60" stroke="none"/>
         <circle cx="60" cy="60" r="58" fill="none"/>
       </g>
     </g>
-    <g id="lapiz" transform="translate(910.294 614.471)">
+    <g id="lapiz" transform="translate(910.294 1907.557)">
       <g id="Grupo_89691" data-name="Grupo 89691" transform="translate(17.654 1.097)">
         <path id="Trazado_152511" data-name="Trazado 152511" d="M106.907,104.334v53.683a4.846,4.846,0,0,0,4.846,4.846h46.039a4.846,4.846,0,0,0,4.846-4.846V104.334Z" transform="translate(-94.788 -90.171)" fill="#ffda73"/>
         <g id="Grupo_89689" data-name="Grupo 89689" transform="translate(0 33.919)">

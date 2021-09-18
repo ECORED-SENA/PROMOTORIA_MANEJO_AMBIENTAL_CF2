@@ -257,7 +257,7 @@ export default {
         'https://www.anla.gov.co/documentos/normativa/terminos_referencia/tdr_nuevas_fuentes_de_materiales_0.pdf ',
     },
     {
-      referencia: 'MinAmbiente. (2018). Ley 1741 de 2018. ',
+      referencia: 'MinAmbiente. (2018). Ley 1931 de 2018. ',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/LEY%201931%20DEL%2027%20DE%20JULIO%20DE%202018.pdf ',
     },
@@ -485,12 +485,12 @@ export default {
       {
         nombre: 'Paula Andrea Taborda Ortiz',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de diseño y metrología <br>Regional distrito capital',
+        centro: 'Centro de diseño y metrología <br>Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de diseño y metrología <br>Regional distrito capital',
+        centro: 'Centro de diseño y metrología <br>Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
@@ -518,7 +518,48 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Adriana Marcela Suárez Eljure',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
@@ -536,7 +577,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',

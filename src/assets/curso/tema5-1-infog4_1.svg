@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="138" viewBox="0 0 138 138">
   <defs>
-    <filter id="Elipse_4662" x="0" y="0" width="138" height="138" filterUnits="userSpaceOnUse">
+    <filter id="Elipse_4652" x="0" y="0" width="138" height="138" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -8,14 +8,14 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_90183" data-name="Grupo 90183" transform="translate(-730.668 -686.914)">
-    <g transform="matrix(1, 0, 0, 1, 730.67, 686.91)" filter="url(#Elipse_4662)">
-      <g id="Elipse_4662-2" data-name="Elipse 4662" transform="translate(9 6)" fill="#fff" stroke="#7ae582" stroke-width="4">
+  <g id="Grupo_90183" data-name="Grupo 90183" transform="translate(-730.668 -1982)">
+    <g transform="matrix(1, 0, 0, 1, 730.67, 1982)" filter="url(#Elipse_4652)">
+      <g id="Elipse_4652-2" data-name="Elipse 4652" transform="translate(9 6)" fill="#fff" stroke="#7ae582" stroke-width="4">
         <circle cx="60" cy="60" r="60" stroke="none"/>
         <circle cx="60" cy="60" r="58" fill="none"/>
       </g>
     </g>
-    <g id="contrato" transform="translate(765.899 712.818)">
+    <g id="contrato" transform="translate(765.899 2007.904)">
       <g id="Grupo_89674" data-name="Grupo 89674" transform="translate(1.079 1.401)">
         <g id="Grupo_89671" data-name="Grupo 89671">
           <g id="Grupo_89665" data-name="Grupo 89665" transform="translate(4.407)">

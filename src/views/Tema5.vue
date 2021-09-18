@@ -11,8 +11,6 @@
     figure.mb-5(data-aos="fade")
       img(src="@/assets/curso/banner-tema5.png", alt="Documentación para tramitar un Sistema de Gestión Ambiental")  
 
-    p.mb-4(data-aos="fade") Para gestionar la información y ahora que se ha relacionado la información correspondiente a la norma ISO 14001, es importante centrarse en los documentos que son requeridos para tramitar un Sistema de Gestión Ambiental (SGA) según esta norma. El SGA debe documentar y definir todos los procesos para alcanzar los objetivos ambientales y para ello, se debe conocer sus características, las cuales se centran en: 
-
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-10
         .bloque-texto-a.color-secundario-gris.p-4

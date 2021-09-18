@@ -93,7 +93,7 @@
 
     h4.mb-4(data-aos="fade-right") Guías ambientales por tipo de sector
 
-    SlyderE.tarjeta-verde3.p-lg-5(indicadores="derecha")
+    SlyderE.tarjeta-verde3.p-lg-5.p-4(indicadores="derecha")
       .row
         .col-md-6.mb-4.mb-md-0
           h4.mb-4 Sector hidrocarburos
@@ -171,7 +171,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              | Guía ambiental para el subsector camaroniculto.  
+              | Guía ambiental para el subsector camaronicultor.  
             li 
               .lista-ol--cuadro__vineta
                 span 4
@@ -207,7 +207,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 12
-              | Guía ambiental para el subsector hortifrutícola.
+              | Guía ambiental para el subsector hortofrutícola.
             li 
               .lista-ol--cuadro__vineta
                 span 13

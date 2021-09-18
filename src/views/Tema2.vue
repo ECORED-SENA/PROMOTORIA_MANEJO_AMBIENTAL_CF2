@@ -20,14 +20,18 @@
       .col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/tema2-img1.jpg', alt='Imagen decorativa')
 
+    .row.justify-content-center(data-aos="fade-down")
+      .col-lg-10
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+
     Separador
 
 
     // 2.1
     #t_2_1.titulo-segundo(data-aos="fade-right")
       .h2 2.1  Características
-
-    p(data-aos="fade") Los tratados son acuerdos entre varios países que buscan combatir los principales conflictos que hay en temas ambientales. A continuación, se describen los principales tratados internacionales firmados por Colombia:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
@@ -212,8 +216,6 @@
     // 2.3
     #t_2_3.titulo-segundo(data-aos="fade-right")
       .h2 2.3   Estrategias
-
-    p.mb-4(data-aos="fade") La ISO 14001 también se enfoca en el ciclo de vida del producto llevando a que la organización determine los aspectos ambientales de sus actividades productos y servicios, y estableciendo:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-10

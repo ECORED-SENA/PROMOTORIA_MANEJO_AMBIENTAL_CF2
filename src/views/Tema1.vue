@@ -42,7 +42,7 @@
               img(src="@/assets/curso/tema1-2-hover1.jpg", alt="Convención para el Cambio Climático")
               .text
                 p.text-center.mb-3.h4 
-                  strong Convención para el Cambio Climático
+                  strong Convención para el cambio climático
                 p.text-center Busca desarrollar temas concernientes a la educación, formación, sensibilización y cumplimiento de los compromisos adquiridos por los países.
           .col-md-6
             .nav-holder(@mouseover="mostrarIndicador = false")
@@ -50,14 +50,14 @@
               img(src="@/assets/curso/tema1-2-hover2.jpg", alt="Convención para la Protección de la Biodiversidad")
               .text
                 p.text-center.mb-3.h4 
-                  strong Convención para la Protección de la Biodiversidad
+                  strong Convención para la protección de la biodiversidad
                 p.text-center Se estableció en la conferencia de Río de Janeiro en el año 1991 y tiene como objetivo principal la protección de la biodiversidad.
           .col-md-6
             .nav-holder
               img(src="@/assets/curso/tema1-2-hover3.jpg", alt="Convención de Basilea sobre Residuos Peligrosos (1989)")
               .text
                 p.text-center.mb-3.h4 
-                  strong Convención de Basilea sobre Residuos Peligrosos (1989)	
+                  strong Convención de Basilea sobre residuos peligrosos (1989)		
                 p.text-center Reducir el volumen de residuos para proteger la salud humana y del medio ambiente. Colombia la ratificó mediante la Ley 256 de 1996.
           .col-md-6
             .nav-holder(@mouseover="mostrarIndicador = false")
@@ -65,7 +65,7 @@
               img(src="@/assets/curso/tema1-2-hover4.jpg", alt="Convenio de Viena para la Protección de la Capa de Ozono y el Protocolo de Montreal	")
               .text
                 p.text-center.mb-3.h4 
-                  strong Convenio de Viena para la Protección de la Capa de Ozono y el Protocolo de Montreal
+                  strong Convenio de Viena para la protección de la capa de ozono y el protocolo de Montreal
                 p.text-center Se creó para la protección de la capa de ozono es un acuerdo medioambiental multilateral y fue ratificado por Colombia mediante la Ley de 1990.
 
 

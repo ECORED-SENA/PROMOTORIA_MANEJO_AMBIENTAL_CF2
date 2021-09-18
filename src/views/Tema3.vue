@@ -47,7 +47,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | Presentar las pólizas de la obtención del Plan de Manejo ambiental - PMA y se paga la tasa del 1x1000 del costo del proyecto 
+            | Presentar las pólizas de la obtención del Plan de Manejo ambiental - PMA y se paga la tasa del 1x1000 del costo del proyecto. 
           li 
             .lista-ol--cuadro__vineta
               span 6
@@ -73,7 +73,7 @@
               br
               | Es de competencia exclusiva del Ministerio del Medio Ambiente una protección social donde se autorizan todas las obras relacionadas con la explotación de campos petroleros y de gas.   
       .row.justify-content-center.px-lg-5(titulo="Cobro para expedición de licencias")
-        p Las licencias ambientales se otorgan para toda la vida útil del proyecto u obra y cubren todas las fases. Las autoridades ambientales cobrarán los servicios de evaluación de seguimientos de licencias ambientales. pero existen unos topes máximos de cobro: 
+        p Las licencias ambientales se otorgan para toda la vida útil del proyecto u obra y cubren todas las fases. Las autoridades ambientales cobrarán los servicios de evaluación de seguimientos de licencias ambientales, pero existen unos topes máximos de cobro: 
         .row.justify-content-center
           .col-lg-5
             h4.mb-2.p-2.text-white.text-center.bg-primario Valor del proyecto
@@ -183,7 +183,7 @@
             p.mb-0
               strong Ley 685 de 2001
               br
-              | Se establece las concesiones de aguas y estas se reglamentas desde los artículos 6°, 28, 36, 41, 38, y 46.
+              | Se establece las concesiones de aguas y estas se reglamentan desde los artículos 6, 28, 36, 41, 38, y 46.
           li.mb-3
             i.fas.fa-circle
             p.mb-0
