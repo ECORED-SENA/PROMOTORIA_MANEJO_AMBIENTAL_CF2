@@ -177,7 +177,8 @@ export default {
 
     {
       referencia: 'Congreso de Colombia. (2017). Ley 1844 de 2017. ',
-      link: 'ww.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html ',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html',
     },
 
     {
@@ -404,7 +405,8 @@ export default {
     {
       texto: 'Congreso de Colombia. (2017). Ley 1844 de 2017. ',
       tipo: 'Documento de sitio web',
-      link: 'ww.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html',
     },
     {
       texto: 'MinAmbiente. (2017). Decreto 870 de 2017.',
