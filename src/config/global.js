@@ -178,13 +178,13 @@ export default {
     {
       referencia: 'Congreso de Colombia. (2017). Ley 1844 de 2017. ',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1844_2017.html ',
     },
 
     {
       referencia: 'Congreso de la República. (1993). Ley 99 de 1993. ',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/leyes/6c-ley_0099_1993.pdf ',
+        'https://www.oas.org/dsd/fida/laws/legislation/colombia/colombia_99-93.pdf',
     },
     {
       referencia: 'Congreso de la república. (2009). Ley 1333 de 2009. ',
@@ -198,13 +198,11 @@ export default {
     },
     {
       referencia: 'Icontec. (2007). Guía técnica colombiana GTC 104. ',
-      link:
-        'http://www.bogotaturismo.gov.co/sites/intranet.bogotaturismo.gov.co/files/GTC%20104%20DE%202009.pdf ',
+      link: 'https://es.slideshare.net/kbarkx/gtc-104-gestin-del-riesgo-ambie ',
     },
     {
       referencia: 'Icontec. (2007). Guía técnica colombiana GTC 24. ',
-      link:
-        'http://www.bogotaturismo.gov.co/sites/intranet.bogotaturismo.gov.co/files/GTC%2024%20DE%202009.pdf ',
+      link: 'https://tienex.co/media/b096d37fcdee87a1f193271978cc2965.pdf ',
     },
     {
       referencia: 'Icontec. (2007). Guía técnica colombiana GTC 250. ',
@@ -214,7 +212,7 @@ export default {
     {
       referencia: 'Icontec. (2007). Guía técnica colombiana GTC 45. ',
       link:
-        'https://idrd.gov.co/sitio/idrd/sites/default/files/imagenes/gtc450.pdf ',
+        'https://repository.udistrital.edu.co/bitstream/handle/11349/6034/ParraCuestaDianaMarcelaVasquezVeraErikaVanessa2016-AnexoA.pdf;jsessionid=AD05C0C1C9C1CBA81DDCC92C9194190B?sequence=2 ',
     },
     {
       referencia: 'Icontec. (2007). Guía técnica colombiana GTC 93. ',
@@ -229,22 +227,21 @@ export default {
     {
       referencia: 'MinAmbiente. (2005). Resolución 1023 de 2005. ',
       link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sostenibilidad_sectores_productivos/res_1023_280705_adopcion_general.pdf ',
+        'https://www1.upme.gov.co/siame/Documents/Res1023-28-07-05_guias_ambientales.pdf ',
     },
     {
       referencia: 'MinAmbiente. (2005). Resolución 1023. ',
       link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sostenibilidad_sectores_productivos/res_1023_280705_adopcion_general.pdf ',
+        'https://www1.upme.gov.co/siame/Documents/Res1023-28-07-05_guias_ambientales.pdf ',
     },
     {
       referencia: 'MinAmbiente. (2010). Decreto 2820 de 2010. ',
       link:
-        'https://www.minambiente.gov.co/images/normativa/decretos/2010/dec_2820_2010.pdf ',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=45524 ',
     },
     {
       referencia: 'MinAmbiente. (2016). Resolución 689 de 2016. ',
-      link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/9a-res%20689%20may%202016.pdf ',
+      link: 'http://extwprlegs1.fao.org/docs/pdf/col157819.pdf ',
     },
     {
       referencia: 'MinAmbiente. (2017). Decreto 870 de 2017. ',
@@ -265,17 +262,17 @@ export default {
     {
       referencia: 'MinAmbiente. (2018). Resolución 1447 de 2018. ',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/98-RES%201447%20DE%202018.pdf ',
+        'https://www.icbf.gov.co/cargues/avance/docs/resolucion_minambienteds_1447_2018.htm#:~:text=Derecho%20del%20Bienestar%20Familiar%20%5BRESOLUCION_MINAMBIENTEDS_1447_2018%5D&text=Por%20la%20cual%20se%20reglamenta,y%20se%20dictan%20otras%20disposiciones. ',
     },
     {
       referencia: 'MinAmbiente. (2018). Resolución 2210 de 2018. ',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/0b-res%202210%20de%202018.pdf ',
+        'https://medioambiente.uexternado.edu.co/resolucion-2210-de-2018-por-medio-de-la-cual-se-reglamenta-el-uso-del-sello-minero-ambiental-colombiano/#:~:text=julio%20de%202019-,Resoluci%C3%B3n%202210%20de%202018%20%E2%80%9CPor%20medio%20de%20la%20cual%20se,del%20Sello%20Minero%20Ambiental%20Colombiano%E2%80%9D&text=Proporcionar%20a%20los%20consumidores%20orientaci%C3%B3n,los%20metales%20preciosos%2C%20entre%20otros. ',
     },
     {
       referencia: 'MinAmbiente. (2019). Resolución 1561 de 2019. ',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/fe-res%201561%20de%202019.pdf ',
+        'https://medioambiente.uexternado.edu.co/resolucion-conjunta-1561-del-2019-por-la-cual-se-adoptan-los-terminos-de-referencia-para-la-elaboracion-del-estudio-de-impacto-ambiental-eia-requerido-para-el-tramite-de-la-licencia-ambien/ ',
     },
     {
       referencia:
@@ -316,7 +313,7 @@ export default {
       texto: 'Congreso de la República. (1993). Ley 99 de 1993',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/leyes/6c-ley_0099_1993.pdf',
+        'https://www.oas.org/dsd/fida/laws/legislation/colombia/colombia_99-93.pdf',
     },
     {
       texto:
@@ -326,7 +323,7 @@ export default {
         'https://www.anla.gov.co/documentos/normativa/terminos_referencia/tdr_nuevas_fuentes_de_materiales_0.pdf',
     },
     {
-      texto: 'Sabogal. C. (2012). Concesiones ambientales. ',
+      texto: 'Sabogal. C. (2012). Concesiones ambientales.',
       tipo: 'Documento de sitio web',
       link: 'https://prezi.com/qjjpb-4iloxl/concesiones-ambientales/',
     },
@@ -339,14 +336,12 @@ export default {
     {
       texto: 'Icontec. (2007). Guía Técnica colombiana GTC 104. ',
       tipo: 'Documento de sitio web',
-      link:
-        'http://www.bogotaturismo.gov.co/sites/intranet.bogotaturismo.gov.co/files/GTC%20104%20DE%202009.pdf',
+      link: 'https://es.slideshare.net/kbarkx/gtc-104-gestin-del-riesgo-ambie',
     },
     {
       texto: 'Icontec. (2007). Guía Técnica colombiana GTC 24. ',
       tipo: 'Documento de sitio web',
-      link:
-        'http://www.bogotaturismo.gov.co/sites/intranet.bogotaturismo.gov.co/files/GTC%2024%20DE%202009.pdf',
+      link: 'https://tienex.co/media/b096d37fcdee87a1f193271978cc2965.pdf',
     },
     {
       texto: 'Icontec. (2007). Guía Técnica colombiana GTC 250. ',
@@ -364,13 +359,13 @@ export default {
       texto: 'Icontec. (2007). Guía Técnica colombiana GTC 45. ',
       tipo: 'Documento de sitio web',
       link:
-        'https://idrd.gov.co/sitio/idrd/sites/default/files/imagenes/gtc450.pdf',
+        'https://repository.udistrital.edu.co/bitstream/handle/11349/6034/ParraCuestaDianaMarcelaVasquezVeraErikaVanessa2016-AnexoA.pdf;jsessionid=AD05C0C1C9C1CBA81DDCC92C9194190B?sequence=2',
     },
     {
       texto: 'MinAmbiente. (2005). Resolución 1023.',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sostenibilidad_sectores_productivos/res_1023_280705_adopcion_general.pdf',
+        'https://www1.upme.gov.co/siame/Documents/Res1023-28-07-05_guias_ambientales.pdf',
     },
     {
       texto: 'EAN. (2014). Principales normas ambientales.',
@@ -382,25 +377,25 @@ export default {
       texto: 'MinAmbiente. (2019). Resolución 1561 de 2019. ',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/fe-res%201561%20de%202019.pdf',
+        'https://medioambiente.uexternado.edu.co/resolucion-conjunta-1561-del-2019-por-la-cual-se-adoptan-los-terminos-de-referencia-para-la-elaboracion-del-estudio-de-impacto-ambiental-eia-requerido-para-el-tramite-de-la-licencia-ambien/',
     },
     {
-      texto: 'MinAmbiente. (2018). Resolución 2210 de 2018. ',
+      texto: 'MinAmbiente. (2018). Resolución 2210 de 2018.',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/0b-res%202210%20de%202018.pdf',
+        'https://medioambiente.uexternado.edu.co/resolucion-2210-de-2018-por-medio-de-la-cual-se-reglamenta-el-uso-del-sello-minero-ambiental-colombiano/#:~:text=julio%20de%202019-,Resoluci%C3%B3n%202210%20de%202018%20%E2%80%9CPor%20medio%20de%20la%20cual%20se,del%20Sello%20Minero%20Ambiental%20Colombiano%E2%80%9D&text=Proporcionar%20a%20los%20consumidores%20orientaci%C3%B3n,los%20metales%20preciosos%2C%20entre%20otros.',
     },
     {
       texto: 'MinAmbiente. (2018). Resolución 1447 de 2018. ',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/98-RES%201447%20DE%202018.pdf',
+        'https://www.icbf.gov.co/cargues/avance/docs/resolucion_minambienteds_1447_2018.htm#:~:text=Derecho%20del%20Bienestar%20Familiar%20%5BRESOLUCION_MINAMBIENTEDS_1447_2018%5D&text=Por%20la%20cual%20se%20reglamenta,y%20se%20dictan%20otras%20disposiciones.',
     },
     {
       texto: 'MinAmbiente. (2018). Ley 1741 de 2018.',
       tipo: 'Documento de sitio web',
       link:
-        'https://dapre.presidencia.gov.co/normativa/normativa/LEY%201931%20DEL%2027%20DE%20JULIO%20DE%202018.pdf',
+        'http://www.ideam.gov.co/documents/51310/536020/RESOLUCI%C3%93N+1741+DE+2016+MINAMBIENTE+MODIFICA+LA+RESOLUCI%C3%93N+222+DE+2011.pdf/16770ba6-e007-4eb2-8937-a84bfd0a81cc',
     },
     {
       texto: 'Congreso de Colombia. (2017). Ley 1844 de 2017. ',
@@ -417,8 +412,7 @@ export default {
     {
       texto: 'MinAmbiente (2016). Resolución 689 de 2016.',
       tipo: 'Documento de sitio web',
-      link:
-        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/9a-res%20689%20may%202016.pdf',
+      link: 'http://extwprlegs1.fao.org/docs/pdf/col157819.pdf',
     },
     {
       texto: 'Congreso de Colombia. (2011). Ley 1450 de 2011. ',
@@ -430,7 +424,7 @@ export default {
       texto: 'MinAmbiente. (2010). Decreto 2820 de 2010.',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/normativa/decretos/2010/dec_2820_2010.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=45524',
     },
     {
       texto: 'Congreso de la República. (2009). Ley 1333 de 2009.',
@@ -442,7 +436,7 @@ export default {
       texto: 'MinAmbiente. (2005). Resolución 1023 de 2005. ',
       tipo: 'Documento de sitio web',
       link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sostenibilidad_sectores_productivos/res_1023_280705_adopcion_general.pdf',
+        'https://www1.upme.gov.co/siame/Documents/Res1023-28-07-05_guias_ambientales.pdf',
     },
     {
       texto: 'Congreso de Colombia. (1994). Ley 140 de 1994.',
